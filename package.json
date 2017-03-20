@@ -1,0 +1,24 @@
+{
+  "name": "react-cart",
+  "version": "1.0.0",
+  "description": "React Cart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkvellin/react-cart.git"
+  },
+  "keywords": [
+    "react",
+    "shopping",
+    "cart"
+  ],
+  "author": "Deepak Immanuel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dkvellin/react-cart/issues"
+  },
+  "homepage": "https://github.com/dkvellin/react-cart#readme"
+}
